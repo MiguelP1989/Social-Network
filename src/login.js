@@ -26,8 +26,7 @@ const ParticlesObjs = {
                 nb_sides: 5
             },
             image: {
-                src:
-                    "https://www.iconsdb.com/icons/preview/white/contacts-xxl.png",
+                src: "images/contact.png",
                 width: 100,
                 height: 100
             }
